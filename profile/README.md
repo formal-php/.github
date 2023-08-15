@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/formal-php/.github/blob/main/logo.svg" /></p>
+<p align="center"><img src="https://github.com/formal-php/.github/blob/main/logo.svg" width="200px" /></p>
 
 ## About Formal
 
